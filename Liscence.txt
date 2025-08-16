@@ -1,0 +1,33 @@
+Copyright © 2025 DYTRootRed, Basers and LegacyCore. All Rights Reserved.
+
+This license covers all intellectual property created by DYTRootRed, Basers and LegacyCore, 
+including but not limited to:
+
+- All software, firmware, kernels, operating systems, and code (source and binary)
+- All designs, UI/UX layouts, and graphical elements
+- All branding, names, and logos (including DYTRootRed and Basers branding)
+- All device names, product names, and software names
+- All related artwork, sound, music, and visual assets
+- All hardware identifiers, case designs, and form factors
+- All documentation, manuals, and help files
+- All original ideas, concepts, and innovations tied to the above
+
+You are NOT permitted to:
+    - Copy, reproduce, or distribute any part of the above in any form.
+    - Modify, alter, adapt, or create derivative works from the above.
+    - Sell, sublicense, rent, lease, or otherwise transfer any part of the above.
+    - Remove or alter any copyright, authorship, or branding notices.
+    - Reverse-engineer, decompile, disassemble, or attempt to derive source code.
+    - Use any DYTRootRed or Basers names, branding, or logos in any way that implies ownership or endorsement.
+    - Claim authorship or ownership of any part of the above.
+    - Use the above for any malicious, unlawful, or competitive purpose.
+
+Any unauthorized use, reproduction, modification, or distribution is strictly prohibited 
+and constitutes a violation of applicable intellectual property, copyright, and 
+trademark laws.
+
+Violators may be subject to civil and criminal penalties under Australian and 
+international law.
+
+For licensing inquiries or written permission, contact:
+dytrootred@basers.org
